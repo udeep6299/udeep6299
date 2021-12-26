@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Shashank Karan</h1>
-<h3 align="center">I'm a 2nd year CSE undergraduate at NIT, Jamshedpur</h3>
+<h1 align="center">Hi 👋, I'm Ujjwal Deep</h1>
+<h3 align="center">I'm a 3rd year Chemical Engineering undergraduate at Jadavpur University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashankkaran&label=Profile%20views&color=0e75b6&style=flat" alt="shashankkaran" /> </p>
 
